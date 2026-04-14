@@ -1,0 +1,24 @@
+{
+  "name": "react-native-ready-to-use",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "package",
+    "examples"
+  ],
+  "scripts": {
+    "start": "yarn examples:start",
+    "build": "yarn workspace react-native-synced-tab-view build",
+    "typecheck": "yarn workspace react-native-synced-tab-view typecheck && yarn workspace examples typecheck",
+    "test": "yarn workspace react-native-synced-tab-view test",
+    "lint": "yarn workspace examples lint",
+    "examples:start": "yarn workspace examples start",
+    "examples:android": "yarn workspace examples android",
+    "examples:ios": "yarn workspace examples ios",
+    "examples:web": "yarn workspace examples web",
+    "example:start": "yarn examples:start",
+    "example:android": "yarn examples:android",
+    "example:ios": "yarn examples:ios",
+    "example:web": "yarn examples:web"
+  }
+}
