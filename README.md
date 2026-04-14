@@ -2,12 +2,7 @@
 
 Synchronized top tabs with a measured, collapsible header for React Native. Build profile, feed, and dashboard layouts where horizontal paging and vertical scroll positions stay aligned across tabs.
 
-<details>
-<summary>iOS Demo 🍎</summary>
-
-[Watch the iOS demo](https://github.com/user-attachments/assets/bda34c41-86ae-4324-999d-5637040c3a10)
-
-</details>
+[![react-native-synced-tab-view iOS demo](https://github.com/user-attachments/assets/bda34c41-86ae-4324-999d-5637040c3a10)](https://github.com/user-attachments/assets/bda34c41-86ae-4324-999d-5637040c3a10)
 
 ## **⚡ Powered by Reanimated + Worklets**
 
