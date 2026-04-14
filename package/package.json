@@ -1,6 +1,6 @@
 {
   "name": "react-native-synced-tab-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A synchronized tab view with a collapsible header for React Native.",
   "license": "MIT",
   "author": "BouarourMohammed",
