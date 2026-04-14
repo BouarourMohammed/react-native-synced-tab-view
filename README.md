@@ -5,7 +5,7 @@ Synchronized top tabs with a measured, collapsible header for React Native. Buil
 <details>
 <summary>iOS Demo 🍎</summary>
 
-[Watch the iOS demo](https://youtube.com/shorts/H4it2s8ogyk?si=-_DIcP5ucugt3jh1)
+[Watch the iOS demo](https://github.com/user-attachments/assets/bda34c41-86ae-4324-999d-5637040c3a10)
 
 </details>
 
